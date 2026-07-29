@@ -1,0 +1,10 @@
+# Phase 1 — NumPy from scratch
+numpy>=2.0.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+pandas>=2.0.0  # required by fetch_openml, even for array output
+
+# Phase 2 — PyTorch
+torch>=2.2.0
+torchvision>=0.17.0
+pillow>=10.0.0  # for Lesson 9's drawing canvas
